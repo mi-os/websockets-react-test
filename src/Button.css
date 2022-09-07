@@ -1,0 +1,14 @@
+.SelectButton {
+  background: #000;
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+  border: 2px solid #000;
+}
+
+.SelectButton:hover {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
